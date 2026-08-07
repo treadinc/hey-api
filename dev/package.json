@@ -25,7 +25,7 @@
     "@tanstack/vue-query": "5.92.9",
     "arktype": "2.2.1",
     "msw": "2.13.2",
-    "nuxt": "3.21.0",
+    "nuxt": "3.21.10",
     "swr": "2.4.1",
     "tsx": "4.21.0",
     "typescript": "6.0.3",
