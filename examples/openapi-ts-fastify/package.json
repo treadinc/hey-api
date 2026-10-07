@@ -9,7 +9,7 @@
     "typecheck": "tsgo --noEmit"
   },
   "dependencies": {
-    "fastify": "5.7.4",
+    "fastify": "5.12.5",
     "fastify-openapi-glue": "4.8.0"
   },
   "devDependencies": {
